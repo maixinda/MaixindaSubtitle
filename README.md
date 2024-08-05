@@ -35,7 +35,7 @@ MaixindaSubtitle supports online and local audio and video file conversion,It ca
 
 If you already have a subtitle file and only need to translate it, you can upload the file directly. We currently support SRT and VTT formats.
 
-## Translated subtitles
+# Translated subtitles
 
 MaixindaSubtitle has built-in Microsoft translation function, which can be used normally without any configuration and is completely unrestricted.
 
