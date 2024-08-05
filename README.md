@@ -3,7 +3,8 @@
   <a href="https://maixinda.com"><img src="https://github.com/maixinda/MaixindaSubtitle/blob/main/.github/favicon.ico" width="150px"></a>
 </p>
 <p align="center">
-	<a href="https://maixinda.com"><img src="https://img.shields.io/badge/Official Website-memo.ac-brightgreen?logo=Safari" alt="Website" /></a>
+  <a href="https://maixinda.com"><img src="https://img.shields.io/badge/Official%20Website-maixinda.com-brightgreen?logo=Safari" alt="Website" /></a>
+ <a href="https://maixinda.com/faq.html"><img src="https://img.shields.io/badge/Common Questions-maixinda.com-blue?logo=Safari" alt="Questions" /></a>	
 </p>
 
 
