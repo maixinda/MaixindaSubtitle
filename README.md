@@ -31,10 +31,13 @@ You can go directly to “ [Releases](https://github.com/maixinda/MaixindaSubtit
 MaixindaSubtitle supports online and local audio and video file conversion,It can transcribe local files in audio and video formats such as MP4, MP3, AAC, M4A, etc. without the need for conversion.
 
 
-# Local transcribe
+# Local subtitles
 
 If you already have a subtitle file and only need to translate it, you can upload the file directly. We currently support SRT and VTT formats.
 
+## Translated subtitles
+
+MaixindaSubtitle has built-in Microsoft translation function, which can be used normally without any configuration and is completely unrestricted.
 
 # Export text and subtitles
 
